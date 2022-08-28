@@ -1,0 +1,28 @@
+body {
+    background-color: yellow;
+}
+
+nav {
+    background-color: red;
+}
+
+
+p {
+    color: brown;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.color-1 {
+    color: blueviolet;
+}
+
+ul {
+    list-style-position: inside'
+}
